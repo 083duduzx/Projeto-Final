@@ -1,6 +1,6 @@
 public class Cliente extends Usuario {
     private String endereco;
-
+/*kkkkk*/
     public Cliente(String nome, String cpf, String telefone, String endereco) {
         super(nome, cpf, telefone);
         this.endereco = endereco;
